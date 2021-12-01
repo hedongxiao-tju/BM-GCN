@@ -10,7 +10,7 @@ which has been accepted by *AAAI2022*.
 * PyTorch
 * TensorFlow.keras
 ## Example Usages
-Please unzip the *data_geom.zip* first。
+Please unzip the *data_geom.zip* first.
 
 * `python main.py --dataset cora --enhance 3.0 --self_loop 1.5`
 * `python main.py --dataset citeseer --enhance 4.0 --self_loop 2.0`
