@@ -21,11 +21,8 @@ Before running the code， please unzip the *data_geom.zip* and make a directory
 
 Please refer to the *args.py* for more parameters.
 ## Reference
-    @inproceedings{BM-GCN,
-     title={Block Modeling-Guided Graph Convolutional Neural Networks},
-     author={Dongxiao He and Chundong Liang and Huixin Liu and Mingxiang Wen and Pengfei Jiao and Zhiyong Feng},
-     booktitle = {AAAI},
-     year={2022}
-    }
+If you make advantage of HOG-GCN in your research, please cite the following in your manuscript:
+
+Dongxiao He, et al. "Block Modeling-Guided Graph Convolutional Neural Networks." In AAAI. 2022.
 ## License
 Tianjin University
